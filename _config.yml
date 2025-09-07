@@ -21,7 +21,7 @@ baseurl: ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "profile.jpg"
-  name             : "Anton Heil"
+  name             : ""
   email            : "j.heil@lse.ac.uk"
 
   links:
@@ -30,17 +30,17 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:j.heil@lse.ac.uk"
 
-    - label: "CV"
-      icon: "fas fa-file-alt"
-      url: /cv.pdf
+   # - label: "CV"
+   #   icon: "fas fa-file-alt"
+   #   url: /cv.pdf
 
-    - label: "Research"
-      icon: "fas fa-book"
-      url: /publications/
+   # - label: "Research"
+   #   icon: "fas fa-book"
+   #   url: /publications/
 
-    - label: "Teaching"
-      icon: "fas fa-pencil-alt"
-      url:  /teaching/
+   # - label: "Teaching"
+   #   icon: "fas fa-pencil-alt"
+   #   url:  /teaching/
 
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
