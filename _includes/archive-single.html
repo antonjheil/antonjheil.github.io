@@ -50,7 +50,7 @@
       {% endif %}
 
       {% if post.coverage %}
-        <p style="font-size: 0.9em; margin: 0.5em 0 0 0;"><strong>Coverage:</strong>
+        <p style="font-size: 0.8em; margin: 0.5em 0 0 0;"><strong>Coverage:</strong>
           {% for outlet in post.coverage %}
             <a href="{{ outlet.url }}">{{ outlet.name }}</a>{% unless forloop.last %}, {% endunless %}
           {% endfor %}
