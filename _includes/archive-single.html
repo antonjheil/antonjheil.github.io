@@ -22,7 +22,7 @@
       </h2>
 
       {% if post.authors %}
-        <p style="margin: 0 0 0.25em 0; font-size: 0.9em;">With:>
+        <p style="margin: 0 0 0.25em 0; font-size: 0.9em;">With
           {% if post.authors.first.name %}
             {% for author in post.authors %}
               <a href="{{ author.url }}" class="no-underline">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
