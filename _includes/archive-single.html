@@ -65,14 +65,16 @@
   </div>
 {% endif %}
 
-      {% if post.abstract %}
-        <details style="margin-top: 0.25em;">
-          <summary style="cursor: pointer;">Click for abstract</summary>
-          <div style="margin-top: 0.5em; font-size: 0.9em">
-            {{ post.abstract | markdownify }}
-          </div>
-        </details>
-      {% endif %}
+{% if post.abstract %}
+  <details style="margin-top: 0.25em;">
+    <summary style="cursor: pointer; font-size: 0.8em; line-height: 1.25; opacity: 0.9;">
+      Click for abstract
+    </summary>
+    <div style="margin-top: 0.5em; font-size: 0.9em">
+      {{ post.abstract | markdownify }}
+    </div>
+  </details>
+{% endif %}
       
     </div>
 
