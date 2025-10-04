@@ -1,0 +1,15 @@
+---
+title: "Poverty Traps"
+collection: publications
+category: conferences
+permalink: /publication/2024_povertytrapshandbook
+#date: 2024-02-17
+#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+abstract: >
+  Public works programs are among the most common social protection schemes in low and middle-income countries. They have the potential to offer effective social protection to agriculture-dependent communities facing increasingly frequent and severe weather. Yet, one important aspect of these programs is understudied: does the public infrastructure constructed through the programs improve agricultural productivity and resilience?  To tackle this question, I assemble a novel dataset of 80 million small-scale infrastructure projects constructed through India’s public works program (NREGA). Preliminary results show that the amount and type of construction respond to local weather shocks.
+support:
+  - name: The Weiss Fund (University of Chicago)
+    url: https://weissfund.uchicago.edu
+header:
+  teaser: publicworks.jpg
+---
