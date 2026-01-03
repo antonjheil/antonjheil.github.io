@@ -4,7 +4,7 @@ authors:
   - name: Munshi Sulaiman
     url: https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/
   - name: Oriana Bandiera
-    url: https://www.orianabandiera.net/
+    url: https://orianabandiera.github.io/index.html
   - name: Robin Burgess
     url: https://www.robinburgess.com/
 collection: publications
