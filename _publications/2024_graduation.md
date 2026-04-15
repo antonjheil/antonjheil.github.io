@@ -10,7 +10,7 @@ authors:
 collection: publications
 category: manuscripts
 permalink: /publication/2024_graduation
-date: 2025-01-01
+date: 2026-01-01
 venue: "The Handbook of Social Protection: Evidence and New Directions for Low- and Middle-Income Countries"
 venueurl: "https://direct.mit.edu/books/oa-edited-volume/6103/The-Handbook-of-Social-ProtectionEvidence-and-New"
 paperurl: '/files/Chapter 10 - Graduation_final.pdf'
