@@ -47,8 +47,8 @@ author:
       url: "https://scholar.google.com/citations?user=XTGAa9wAAAAJ&hl=en"
 
     - label: "LinkedIn"
-          icon: "fab fa-linkedin"
-          url: "https://www.linkedin.com/in/anton-heil/"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/anton-heil/"
 
   # Academic websites
   academia         : # URL
@@ -80,7 +80,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "anton-heil" # Username
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
