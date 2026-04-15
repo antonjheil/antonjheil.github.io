@@ -46,6 +46,9 @@ author:
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=XTGAa9wAAAAJ&hl=en"
 
+    - label: "LinkedIn"
+          icon: "fab fa-linkedin"
+          url: "https://www.linkedin.com/in/anton-heil/"
 
   # Academic websites
   academia         : # URL
