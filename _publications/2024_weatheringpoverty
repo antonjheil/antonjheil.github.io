@@ -17,7 +17,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024_weatheringpoverty
 #date: 2024-02-17
-paperurl: 'http://academicpages.github.io/files/weathering_poverty.pdf'
+paperurl: 'http://antonjheil.github.io/files/weathering_poverty.pdf'
 abstract: >
   The global overlap between poverty and climate damages raises the question of how poverty shapes responses to weather shocks. To examine the causal mechanisms that link individual poverty to climate vulnerability, this paper exploits two independent sources of variation: the randomized roll-out of BRAC's graduation program in Bangladesh, which generates variation in the incidence of extreme poverty, and high-resolution satellite images, which allow us to identify unpredictable variation in floods and droughts. We find that poverty shapes adaptation to these shocks via asset and labor market channels. The poorest households draw down savings, liquidate assets, and sacrifice consumption. In contrast, households randomly lifted out of poverty diversify sources of earnings, rely on more resilient income sources, and protect their wages from less resilient sources by landowners' more limited ability to pass through shocks. Programs that expand access to otherwise unavailable occupations thus both lift households out of poverty and serve as effective ex-ante adaptation investments in the face of unfolding climate change.
 header:
